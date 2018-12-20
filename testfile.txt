@@ -1,1 +1,3 @@
-this is juts text to test the GIT features
+this is just a text to test the GIT features:
+
+Now I append another line
